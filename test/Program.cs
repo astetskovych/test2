@@ -9,6 +9,7 @@ namespace test
     class Program
     {
         string s;
+        string d;
         static void Main(string[] args)
         {
         }
