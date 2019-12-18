@@ -8,6 +8,7 @@ namespace test
 {
     class Program
     {
+        string s;
         static void Main(string[] args)
         {
         }
