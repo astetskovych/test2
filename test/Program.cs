@@ -10,6 +10,7 @@ namespace test
     {
         string s;
         string d;
+        string e;
         static void Main(string[] args)
         {
         }
